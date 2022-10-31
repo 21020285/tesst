@@ -71,9 +71,9 @@ This is our game project for our final lab in our Object-Oriented Programming co
 
 | Order |         Name          |     ID      |            Email            |                       Github account                        |                              Facebook                              |
 | :---: | :-------------------: | :---------: | :-------------------------: | :---------------------------------------------------------: | :----------------------------------------------------------------: |
-|   1   |     Pham Gia Bao      |             |  |           [giabao18](https://github.com/giabao18)           | [Gia Bảo](https://www.facebook.com/profile.php?id=100007374601572) |
-|   2   | Phan Nguyen Hoang Bao |             |  | [Mr@JEY](https://github.com/PhanNguyenHoangBao-ITITIU20165) |         [Hoàng Bảo](https://www.facebook.com/kuma.jeyruei)         |
-|   3   | Nguyen Luan Cong Bang |             | |       [congbangitiu](https://github.com/congbangitiu)       |     [Công Bằng](https://www.facebook.com/congbang.nguyenluan)      |
+|   1   |  |             |  |           [giabao18](https://github.com/giabao18)           | https://www.facebook.com/profile.php?id=100007374601572) |
+|   2   |  |             |  | [Mr@JEY](https://github.com/PhanNguyenHoangBao-ITITIU20165) |         (https://www.facebook.com/kuma.jeyruei)         |
+|   3   |  |             | |       [congbangitiu](https://github.com/congbangitiu)       |     [Công Bằng](https://www.facebook.com/congbang.nguyenluan)      |
 
 ### Installation :dart: 
 
